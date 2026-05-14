@@ -3,7 +3,7 @@
 An interactive sales dashboard built in Microsoft Excel
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## What's Inside
 - Sales by City
